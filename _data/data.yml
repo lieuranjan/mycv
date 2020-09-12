@@ -35,6 +35,10 @@ sidebar:
       - idiom: Assamese
         level: Native
 
+    technical skills:
+      - name: Java , SQL, Scala, Python, Groovy, Shell Script, SAS Base
+        level: 90%
+
     interests:
       - item: Cricket
         link:
