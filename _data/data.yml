@@ -109,16 +109,16 @@ skills:
     title: Technical Skills
     toolset:
       - name: Java , SQL, Scala, Python, Groovy, Shell Script, SAS Base
-        level:
+        level: Expert
 
       - name: Spark, Kafka, Hadoop, Hbase, PySpark, Airflow, Talen​d​, S3, Hive, Sqoop, Hue, Ranger, Avro, Parquet, Snappy , Oozie etc.
-        level:
+        level: Expert
 
       - name: CDH, AWS, HDP, Map​R​, PHD, Alluxio etc.
-        level:
+        level: Expert
 
       - name: Jenkins, OpenShift, Pivotal Cloud Foundry ,Git, Maven, Jenkins, Jira, Bitbucket, Collibra.
-        level:
+        level: Expert
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
