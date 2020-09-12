@@ -88,24 +88,23 @@ experiences:
          - Help on debugging issues in hadoop, Hive, Spark jobs.
          - Involved in Big Data engineer recruitment pane
     - role: Senior Software Engineer
-        time: 2013 - 2016
-        company: Zaloni Technologies, India
-        details: |
-          Zaloni has a data management and governance tool named Bedrock, which helped in managing data ingestion pipelines and its metadata. I worked on the first production project of Bedrock and successfully deployed to a Fortune 500 healthcare company.
-            - Developed Map Reduce based framework for data ingestion in Bedrock having features of record counting, tokenization, watermarking, Schema validation and file duplications check..
-            - Developed a shell script based framework for data extraction from database sources using SQOOP , Hive, Hcatalog etc. supporting full load and Incremental loads on top of Bedrock tool
-            - Worked as tech lead for many data offloading projects and POCs using Bedrock.
-            - Worked on a project to migrate and merge all existing data ingestion pipelines to merge hadoop map reduce workflow
+      time: 2013 - 2016
+      company: Zaloni Technologies, India
+      details: |
+        Zaloni has a data management and governance tool named Bedrock, which helped in managing data ingestion pipelines and its metadata. I worked on the first production project of Bedrock and successfully deployed to a Fortune 500 healthcare company.
+          - Developed Map Reduce based framework for data ingestion in Bedrock having features of record counting, tokenization, watermarking, Schema validation and file duplications check..
+          - Developed a shell script based framework for data extraction from database sources using SQOOP , Hive, Hcatalog etc. supporting full load and Incremental loads on top of Bedrock tool
+          - Worked as tech lead for many data offloading projects and POCs using Bedrock.
+          - Worked on a project to migrate and merge all existing data ingestion pipelines to merge hadoop map reduce workflow
     - role: Software Engineer
-        time: 2012 - 2013
-        company: Imababa Solutions and Services, India
-        details: |
-          As a Startup company, I worked on a lot of POCs and product concepts.
-            - Involved in requirement gathering and technical discussion to formulate development plans.
-            - Developed web applications and backend modules.
-            - Helped frontend developers with necessary apis.
-            - Contributed to discussion while designing database models.
-
+      time: 2012 - 2013
+      company: Imababa Solutions and Services, India
+      details: |
+        As a Startup company, I worked on a lot of POCs and product concepts.
+          - Involved in requirement gathering and technical discussion to formulate development plans.
+          - Developed web applications and backend modules.
+          - Helped frontend developers with necessary apis.
+          - Contributed to discussion while designing database models.
 skills:
     title: Technical Skills
 
